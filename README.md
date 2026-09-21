@@ -47,3 +47,7 @@ Beverage manufacturers supply fridges to customers (e.g. spaza shops, shebeens) 
 
 ## Credits
 Project coordinator: Mr Bongani Mngaza, Nelson Mandela University
+Rohit Aroonslam - Ecommerce / Purchasing Subsystem
+Amity Brown - Fridge Fault Subsystem
+Marcellos Von Buchenroder - Fridge Maintenance Subsystem
+Alyssa Damons - Customer Management Subsystem
