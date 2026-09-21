@@ -46,8 +46,8 @@ Beverage manufacturers supply fridges to customers (e.g. spaza shops, shebeens) 
 4. `dotnet run`
 
 ## Credits
-Project coordinator: Mr Bongani Mngaza, Nelson Mandela University
-Rohit Aroonslam - Ecommerce / Purchasing Subsystem
-Amity Brown - Fridge Fault Subsystem
-Marcellos Von Buchenroder - Fridge Maintenance Subsystem
-Alyssa Damons - Customer Management Subsystem
+- Mr Bongani Mngaza - Project coordinator, Nelson Mandela University
+- Rohit Aroonslam - Ecommerce / Purchasing Subsystem
+- Amity Brown - Fridge Fault Subsystem
+- Marcellos Von Buchenroder - Fridge Maintenance Subsystem
+- Alyssa Damons - Customer Management Subsystem
